@@ -5,11 +5,11 @@ x = 1
 y = 2
 z = 3
 
-print(round(pi)) #arrotonda
-print(math.ceil(pi)) #arrotonda al numero più alto
-print(math.floor(pi)) #arrotonda al numero più basso
-print(abs(pi)) #valore assoluto
-print(pow(pi,2)) #potenza
-print(math.sqrt(420)) #radice quadrata
+print(round(pi)) #rounds the number
+print(math.ceil(pi)) #round to the highest number
+print(math.floor(pi)) #round to the lowest number
+print(abs(pi)) #absolute value
+print(pow(pi,2)) #power
+print(math.sqrt(420)) #square root
 print(max(x,y,z))
 print(min(x,y,z))
