@@ -1,7 +1,9 @@
 # multiple assignment = allows us to assign multiple variables at the same time in one line of code
 
+#Python has no command for declaring a variable, you must assign a value to it
+
 name = "Bro"
-age = 21
+age = 21        
 attractive = True
 
 name, age, attractive = "Bro", 21, True
